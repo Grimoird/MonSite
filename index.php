@@ -12,6 +12,8 @@
 <div class="container">
 
     <h1 class="display-4 text-center text-info">Découverte GIT/ GITHUB </h1>
+     <p class="alert alert-info p-2 text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias adipisci placeat molestias est architecto saepe exercitationem eos laboriosam provident sunt qui molestiae laudantium cupiditate, sed, voluptatem corporis dicta officia eaque labore totam nobis aut! Ipsam omnis eligendi quasi rerum placeat nisi magnam nemo blanditiis pariatur incidunt corrupti, voluptatum officia, fugiat corporis, excepturi nesciunt voluptates molestiae modi fugit harum! Tempore quidem in excepturi quo saepe repellendus accusantium laborum ut voluptates perspiciatis, doloribus, quam eaque non? Atque aliquid natus, dolorum sunt esse repudiandae voluptatem repellat facilis officiis et soluta consectetur ut porro dignissimos dolor earum doloremque perspiciatis deserunt nihil repellendus adipisci voluptatum?
+     </p>
 
 
 </div>
